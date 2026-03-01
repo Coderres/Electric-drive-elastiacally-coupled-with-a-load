@@ -1,4 +1,4 @@
-# Electric-drive-elastiacally-coupled-with-a-load
+# Electric-drive-elastically-coupled-with-a-load
 FLEX COUPLING ELECTRIC DRIVE
 
 This material was prepared for a lecture on "Intelligent Actuators" at the Berliner Hochschule für Technik 
