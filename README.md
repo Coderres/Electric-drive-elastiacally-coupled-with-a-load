@@ -15,5 +15,7 @@ to find a way to control this system in a stable way by using a classic controll
 Each case to simulate differs in one aspect and the final protocoll should discuss the pecularities 
 of each case. (Some cases do not lead to a stable system.)
 
+I am sorry the description in the pdf files is in German.
+
 
 
