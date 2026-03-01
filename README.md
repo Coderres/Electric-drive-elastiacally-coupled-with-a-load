@@ -7,7 +7,7 @@ generator or another drive.
 
 The control is a classic one, the driving motor is speed-controlled.
 There is a degree of freedom where to position the speed sensor.
-Either on the drcing motor side or attached to the load.
+Either on the driving motor side or attached to the load.
 
 The task of the students is to model the flexilbe link in Simulink, derive its transfer function and
 to find a way to control this system in a stable way by using a classic controller for the drive.
